@@ -18,7 +18,7 @@
 
 ### **嵌套量词**
 
-&emsp;&emsp;$\forall$ x $\exists$ y(x+y=0) $\Rightarrow$ $\forall$ xQ(x) && Q(x) 表示 $\exist$ y(x+y=0)
+&emsp;&emsp;$\forall$ x $\exists$ y(x+y=0) $\Rightarrow$ $\forall$ xQ(x) && Q(x) 表示 $\exists$ y(x+y=0)
 
 ### **推理规则**
 
